@@ -1,0 +1,1 @@
+# SuiShenJi本随手记只是简单的用了SQLite数据库，但是和ContentProvider配合可以远程增删改App数据
