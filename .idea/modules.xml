@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DialogTest/DialogTest.iml" filepath="$PROJECT_DIR$/DialogTest/DialogTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Girdtest/Girdtest.iml" filepath="$PROJECT_DIR$/Girdtest/Girdtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intenttest/Intenttest.iml" filepath="$PROJECT_DIR$/Intenttest/Intenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lanuchmode/Lanuchmode.iml" filepath="$PROJECT_DIR$/Lanuchmode/Lanuchmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeiXinTest.iml" filepath="$PROJECT_DIR$/WeiXinTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeiXinTest/WeiXinTest-WeiXinTest.iml" filepath="$PROJECT_DIR$/WeiXinTest/WeiXinTest-WeiXinTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialogdemo/dialogdemo.iml" filepath="$PROJECT_DIR$/dialogdemo/dialogdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragcomm/fragcomm.iml" filepath="$PROJECT_DIR$/fragcomm/fragcomm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylikethis/mylikethis.iml" filepath="$PROJECT_DIR$/mylikethis/mylikethis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resolcertest/resolcertest.iml" filepath="$PROJECT_DIR$/resolcertest/resolcertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slefnote/slefnote.iml" filepath="$PROJECT_DIR$/slefnote/slefnote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqldemo2/sqldemo2.iml" filepath="$PROJECT_DIR$/sqldemo2/sqldemo2.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DialogDemo</string>
+
+    <string-array name="cities">
+        <item>上海</item>
+        <item>杭州</item>
+        <item>深圳</item>
+        <item>广州</item>
+    </string-array>
+</resources>

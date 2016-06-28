@@ -1,0 +1,1 @@
+include ':app', ':WeiXinTest', ':DialogTest', ':myapplication', ':Lanuchmode', ':Intenttest', ':Girdtest', ':slefnote', ':sqldemo2', ':fragcomm', ':dialogdemo', ':resolcertest', ':mylikethis'

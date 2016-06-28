@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/ll_wx"
+        style="@style/bottom_layout">
+
+        <ImageView
+            android:id="@+id/iv_wx"
+            style="@style/bottom_imageview"
+            android:src="@drawable/ahk" />
+
+        <TextView
+            android:id="@+id/tv_wx"
+            style="@style/bottom_textview"
+            android:text="微信" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_txl"
+        style="@style/bottom_layout">
+
+        <ImageView
+            android:id="@+id/iv_txl"
+            style="@style/bottom_imageview"
+            android:src="@drawable/ahi" />
+
+        <TextView
+            android:id="@+id/tv_txl"
+            style="@style/bottom_textview"
+            android:text="通信录" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_fx"
+        style="@style/bottom_layout">
+
+        <ImageView
+            android:id="@+id/iv_fx"
+            style="@style/bottom_imageview"
+            android:src="@drawable/ahm" />
+
+        <TextView
+            android:id="@+id/tv_fx"
+            style="@style/bottom_textview"
+            android:text="发现" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_me"
+        style="@style/bottom_layout">
+
+        <ImageView
+            android:id="@+id/iv_me"
+            style="@style/bottom_imageview"
+            android:src="@drawable/aho" />
+
+        <TextView
+            android:id="@+id/tv_me"
+            style="@style/bottom_textview"
+            android:text="我" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Android Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DialogTest" />
+            <option value="$PROJECT_DIR$/Girdtest" />
+            <option value="$PROJECT_DIR$/Intenttest" />
+            <option value="$PROJECT_DIR$/Lanuchmode" />
+            <option value="$PROJECT_DIR$/WeiXinTest" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dialogdemo" />
+            <option value="$PROJECT_DIR$/fragcomm" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/mylikethis" />
+            <option value="$PROJECT_DIR$/resolcertest" />
+            <option value="$PROJECT_DIR$/slefnote" />
+            <option value="$PROJECT_DIR$/sqldemo2" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DialogTest" />
+            <option value="$PROJECT_DIR$/Girdtest" />
+            <option value="$PROJECT_DIR$/Intenttest" />
+            <option value="$PROJECT_DIR$/Lanuchmode" />
+            <option value="$PROJECT_DIR$/WeiXinTest" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dialogdemo" />
+            <option value="$PROJECT_DIR$/fragcomm" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/mylikethis" />
+            <option value="$PROJECT_DIR$/resolcertest" />
+            <option value="$PROJECT_DIR$/slefnote" />
+            <option value="$PROJECT_DIR$/sqldemo2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

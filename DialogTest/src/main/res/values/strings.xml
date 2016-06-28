@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="cities">
+        <item>上海</item>
+        <item>郑州</item>
+        <item>广州</item>
+    </string-array>
+
+    <string-array name="citylabel">
+        <item>haha</item>
+        <item>xixi</item>
+        <item>mm</item>
+    </string-array>
+</resources>

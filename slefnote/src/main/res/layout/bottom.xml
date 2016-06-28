@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/lay_note"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="52dp"
+        >
+
+        <ImageView
+            android:id="@+id/iv_note_blue"
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="#64a0d3" />
+
+        <ImageView
+            android:id="@+id/iv_note"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#ececec" />
+
+        <TextView
+            android:id="@+id/tv_note"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:text="记事簿"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay_bill"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="52dp"
+        >
+
+        <ImageView
+            android:id="@+id/iv_bill_blue"
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="#64a0d3" />
+
+        <ImageView
+            android:id="@+id/iv_bill"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#ececec" />
+
+        <TextView
+            android:id="@+id/tv_bill"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:text="我的账单"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay_acc"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="52dp"
+        >
+
+        <ImageView
+            android:id="@+id/iv_acc_blue"
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="#64a0d3" />
+
+        <ImageView
+            android:id="@+id/iv_acc"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#ececec" />
+
+        <TextView
+            android:id="@+id/tv_acc"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:gravity="center"
+            android:text="我的账户"/>
+    </LinearLayout>
+</LinearLayout>
