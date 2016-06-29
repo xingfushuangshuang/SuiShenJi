@@ -1,3 +1,11 @@
 # SuiShenJi本随手记只是简单的用了SQLite数据库，但是和ContentProvider配合可以远程增删改App数据
 主要是涉及其中两个moudle
 slefnote(随手记模块)resolcertest(远程修改模块)
+其中DialogTest是关于时间日期的
+dialogDemo是关于popwindow和自定义对话框的
+sqldemo2是关于根据SQLite数据库制定索引增删改查，resolcertest(远程修改模块通过本app来修改随手记数据)【两者功能相同】
+slefnote是关于成型的随手记
+myapplication是关于两个页面数据跳转并保存
+fragcomm是关于外卖侧滑列表左右同步显示数据
+Lanuch是关于Activity生命周期的演示
+Itent是关于fragment和activity数据传输的演示
